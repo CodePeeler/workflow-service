@@ -1,7 +1,7 @@
 # Messaging with Spring AMQP (RabbitMQ)
 
 ## Details
-Initial rough draft of a Workflow Orchestrator. A Spring Boot service that leverages Spring's RabbitMQ library for messaging. The application includes both Producer and Consumer. The message broker is not included. However, details for spining-up a RabbitMQ docker image are given below.
+Initial rough draft of a Workflow Orchestrator. A Spring Boot service that leverages Spring's RabbitMQ library for messaging. The application includes both Producer and Consumer. The message broker is not included. However, details for spining-up a RabbitMQ docker image are given below. Plese see the [documentation](./docs) for further details about this serverice.
 
 
 ## Build source code
